@@ -1,8 +1,8 @@
 # sales-analysis-powerbi
 
-📊 Sales & Profit Analysis Dashboard (Power BI)
+**Sales & Profit Analysis Dashboard (Power BI)**
 
-📌 Overview
+**_Overview_**
 This project is an end-to-end Power BI dashboard built using retail sales data to analyze sales performance, profitability, and trends.
 
 🚀 Key Features
